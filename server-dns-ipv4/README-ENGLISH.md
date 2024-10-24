@@ -15,20 +15,26 @@ Replace placeholders in `setup-dns-server-ipv4.sh` with your actual server detai
 ## Steps:
 
 1. Clone the repository and navigate to the directory:
+
 `git clone https://github.com/danielselbachtechofc/scripts-shellscript/blob/main/server-dns-ipv4.git`
+
 `cd server-dns-ipv4`
 
 
-2. Make the script executable:
+3. Make the script executable:
+   
 `chmod +x setup-dns-server-ipv4.sh`
 
 
-3. Run the script as root:
+5. Run the script as root:
+   
 `sudo ./setup-dns-server-ipv4.sh`
 
 
-4. Verify the DNS server is working:
+7. Verify the DNS server is working:
+
 `nslookup google.com 127.0.0.1`
+
 `nslookup ns.[YOUR_DOMAIN] 127.0.0.1`
 
 Notes
