@@ -14,7 +14,7 @@ Substitua os marcadores de posição em `setup-dns-server-ipv4.sh` pelos detalhe
   
 ## Etapas:
 
-1. Clone o repositório e navegue até o diretório:<\br>
+1. Clone o repositório e navegue até o diretório: <\br>
 `git clone https://github.com/danielselbachtechofc/server-dns-ipv4.git`
 `cd server-dns-ipv4`
 
