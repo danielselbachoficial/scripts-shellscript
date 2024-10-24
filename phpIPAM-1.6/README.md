@@ -10,7 +10,7 @@ Ubuntu Server 22.04.6</br>
 1. Instalar do phpIPAM v1.6 via script.</br>
 
 2 Clone o repositório e navegue até o diretório:</br>
-`git clone https://github.com/danielselbachtechofc/server-dns-ipv4.git`</br>
+`git clone https://github.com/danielselbachtechofc/scripts-shellscript/tree/main/phpIPAM-1.6.git`</br>
 `cd 01-install-phpIPAM-v1.6`</br>
 
 3. Torne o script executável:</br>
