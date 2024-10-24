@@ -2,8 +2,8 @@
 Este script configura o phpIPAM v1.6 no sistema opereacional Linux Ubuntu.
 
 Versões do Ubuntu aprovado.
-Ubuntu Server 22.04
-Ubuntu Server 22.04.6
+Ubuntu Server 22.04</br>
+Ubuntu Server 22.04.6</br>
 
 ## Etapas:
 
