@@ -15,18 +15,18 @@ Substitua os marcadores de posição em `setup-dns-server-ipv4.sh` pelos detalhe
 ## Etapas:
 
 1. Clone o repositório e navegue até o diretório:<\br>
-`git clone https://github.com/danielselbachtechofc/server-dns-ipv4.git`<\br>
-`cd server-dns-ipv4`<\br>
+`git clone https://github.com/danielselbachtechofc/server-dns-ipv4.git`
+`cd server-dns-ipv4`
 
 2. Torne o script executável:<\br>
-`chmod +x setup-dns-server-ipv4.sh`<\br>
+`chmod +x setup-dns-server-ipv4.sh`
 
 3. Execute o script como root:<\br>
-`sudo ./setup-dns-server-ipv4.sh`<\br>
+`sudo ./setup-dns-server-ipv4.sh`
 
 4. Verifique se o servidor DNS está funcionando:<\br>
-`nslookup google.com 127.0.0.1`<\br>
-`nslookup ns.[SEU_DOMÍNIO] 127.0.0.1`<\br>
+`nslookup google.com 127.0.0.1`
+`nslookup ns.[SEU_DOMÍNIO] 127.0.0.1`
 
 Observações
 Certifique-se de que suas configurações de firewall permitem tráfego DNS na porta 53.
