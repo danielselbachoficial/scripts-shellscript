@@ -7,7 +7,7 @@ Ubuntu Server 22.04.6</br>
 
 ## Etapas:
 
-1. Instalar do phpIPAM v1.6 via script.
+1. Instalar do phpIPAM v1.6 via script.</br>
 
-2. Acessar phpIPAM v1.6 pelo navegador e configurar do banco de Dados.
-<IP-DO-PHPIPAM>/phpipam
+2. Acessar phpIPAM v1.6 pelo navegador e configurar do banco de Dados.</br>
+IP-DO-PHPIPAM/phpipam</br>
