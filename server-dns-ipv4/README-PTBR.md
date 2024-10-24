@@ -21,12 +21,14 @@ Substitua os marcadores de posição em `setup-dns-server-ipv4.sh` pelos detalhe
 `cd server-dns-ipv4`
 
 3. Torne o script executável:
+   
 `chmod +x setup-dns-server-ipv4.sh`
 
-4. Execute o script como root:
+5. Execute o script como root:
+   
 `sudo ./setup-dns-server-ipv4.sh`
 
-5. Verifique se o servidor DNS está funcionando:
+7. Verifique se o servidor DNS está funcionando:
    
 `nslookup google.com 127.0.0.1`
 
