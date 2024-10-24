@@ -15,7 +15,7 @@ Replace placeholders in `setup-dns-server-ipv4.sh` with your actual server detai
 ## Steps:
 
 1. Clone the repository and navigate to the directory:
-`git clone https://github.com/danielselbachtechofc/server-dns-ipv4.git`
+`git clone https://github.com/danielselbachtechofc/scripts-shellscript/blob/main/server-dns-ipv4.git`
 `cd server-dns-ipv4`
 
 
