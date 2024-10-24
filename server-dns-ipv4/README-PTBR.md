@@ -14,17 +14,18 @@ Substitua os marcadores de posição em `setup-dns-server-ipv4.sh` pelos detalhe
   
 ## Etapas:
 
-1. Clone o repositório e navegue até o diretório: <\br>
+1. Clone o repositório e navegue até o diretório:
 `git clone https://github.com/danielselbachtechofc/server-dns-ipv4.git`
+
 `cd server-dns-ipv4`
 
-2. Torne o script executável:<\br>
+3. Torne o script executável:
 `chmod +x setup-dns-server-ipv4.sh`
 
-3. Execute o script como root:<\br>
+4. Execute o script como root:
 `sudo ./setup-dns-server-ipv4.sh`
 
-4. Verifique se o servidor DNS está funcionando:<\br>
+5. Verifique se o servidor DNS está funcionando:
 `nslookup google.com 127.0.0.1`
 `nslookup ns.[SEU_DOMÍNIO] 127.0.0.1`
 
