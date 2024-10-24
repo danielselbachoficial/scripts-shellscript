@@ -15,6 +15,7 @@ Substitua os marcadores de posição em `setup-dns-server-ipv4.sh` pelos detalhe
 ## Etapas:
 
 1. Clone o repositório e navegue até o diretório:
+   
 `git clone https://github.com/danielselbachtechofc/server-dns-ipv4.git`
 
 `cd server-dns-ipv4`
@@ -26,7 +27,9 @@ Substitua os marcadores de posição em `setup-dns-server-ipv4.sh` pelos detalhe
 `sudo ./setup-dns-server-ipv4.sh`
 
 5. Verifique se o servidor DNS está funcionando:
+   
 `nslookup google.com 127.0.0.1`
+
 `nslookup ns.[SEU_DOMÍNIO] 127.0.0.1`
 
 Observações
