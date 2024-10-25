@@ -14,6 +14,7 @@ Ubuntu Server 22.04.6</br>
 `git clone https://github.com/danielselbachtechofc/scripts-shellscript.git`
 
 `cd scripts-shellscript`
+
 `cd 01-install-phpIPAM-v1.6`
 
 3. Torne o script executável: </br>
