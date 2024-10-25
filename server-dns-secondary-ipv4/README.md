@@ -19,6 +19,8 @@ Replace placeholders in `setup-dns-server-secondary.sh` with your actual server 
    
 `git clone https://github.com/danielselbachtechofc/scripts-shellscript.git`
 
+`cd scripts-shellscript`
+
 `cd server-dns-secondary-ipv4`
 
 3. Make the script executable:
