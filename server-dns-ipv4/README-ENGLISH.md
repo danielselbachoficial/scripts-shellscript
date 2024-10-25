@@ -18,6 +18,8 @@ Replace placeholders in `setup-dns-server-ipv4.sh` with your actual server detai
 
 `git clone https://github.com/danielselbachtechofc/scripts-shellscript.git`
 
+`cd scripts-shellscript`
+
 `cd server-dns-ipv4`
 
 
