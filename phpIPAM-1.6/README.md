@@ -15,7 +15,7 @@ Ubuntu Server 22.04.6</br>
 
 `cd scripts-shellscript`
 
-`cd 01-install-phpIPAM-v1.6`
+`cd phpIPAM-1.6`
 
 3. Torne o script executável: </br>
 
