@@ -11,7 +11,7 @@ Ubuntu Server 22.04.6</br>
 
 2. Clone o repositório e navegue até o diretório: </br>
 
-`git clone https://github.com/danielselbachtechofc/scripts-shellscript/tree/main/phpIPAM-1.6.git`
+`git clone https://github.com/danielselbachtechofc/scripts-shellscript.git`
 
 `cd 01-install-phpIPAM-v1.6`
 
