@@ -18,6 +18,8 @@ Substitua os marcadores de posição em `setup-dns-server-ipv4.sh` pelos detalhe
    
 `git clone https://github.com/danielselbachtechofc/scripts-shellscript.git`
 
+`cd scripts-shellscript`
+
 `cd server-dns-ipv4`
 
 3. Torne o script executável:
