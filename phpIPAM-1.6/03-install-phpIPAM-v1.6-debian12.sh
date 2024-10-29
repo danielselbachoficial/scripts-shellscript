@@ -15,7 +15,7 @@ apt list --upgradable
 sudo apt upgrade -y
 
 # Instalar pacotes essenciais
-sudo apt install curl wget zip git ufw -y
+sudo apt install curl wget zip git -y
 
 # Escolher entre Apache ou Nginx
 echo "Escolha o servidor web: 1 - Apache | 2 - Nginx"
