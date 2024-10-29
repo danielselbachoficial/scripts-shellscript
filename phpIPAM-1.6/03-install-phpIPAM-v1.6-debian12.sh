@@ -8,6 +8,7 @@
 #########################################################################################
 
 # Atualizar repositórios de sistema
+apt apt install -y sudo
 sudo apt update
 apt list --upgradable
 
