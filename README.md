@@ -1,4 +1,4 @@
-Sejam bem-vindos ao repositório com script em Shell Script!
+Sejam bem-vindos ao repositório com scripts em Shell Script!
 
 Me chamo Daniel Selbach, sou profissional de TI, YouTuber, empreendedor.
 
