@@ -26,7 +26,7 @@ read -p "Digite a cidade: " CITY
 read -p "Digite o estado/província: " STATE
 read -p "Digite o país (ex: BR): " COUNTRY
 read -p "Digite o endereço de e-mail: " EMAIL
-read -p "Digite o IP para SAN (ex: 89.117.77.73): " IP_SAN
+read -p "Digite o IP para SAN (ex: 199.1.1.2): " IP_SAN
 
 # Criar o arquivo de configuração do OpenSSL
 cat > "$CERT_DIR/server.cnf" <<EOL
