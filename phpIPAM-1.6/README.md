@@ -6,6 +6,9 @@ Ubuntu Server 22.04</br>
 Ubuntu Server 22.04.1</br>
 Ubuntu Server 22.04.6</br>
 
+Versões do Ubuntu aprovado: </br>
+Debian 12</br>
+
 ## Etapas:
 
 1. Instalar do phpIPAM v1.6 via script. </br>
