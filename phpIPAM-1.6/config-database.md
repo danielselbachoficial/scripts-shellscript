@@ -37,5 +37,5 @@ hostname -I
 #11_ Décima primeira Etapa: Informe o usuário e senha do "MySQL/MariaDB" e clique em "Show advanced options.<br>
 ```bash
 Usuário: admin
-Senha: Senha criada na 6ª etapa.
+Senha: Senha criada na 8ª etapa.
 ```
