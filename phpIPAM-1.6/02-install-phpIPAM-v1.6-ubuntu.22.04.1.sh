@@ -59,7 +59,7 @@ EXIT;
 EOF
 
 # Instalar componentes PHP necessários
-sudo apt install php php-fpm php-curl php-mysql php-gmp php-mbstring php-xml -y
+sudo apt install php php-fpm php-curl php-mysql php-gmp php-mbstring php-xml php-gd php-pear -y
 sudo systemctl enable php-fpm
 
 # Baixar e configurar phpIPAM
