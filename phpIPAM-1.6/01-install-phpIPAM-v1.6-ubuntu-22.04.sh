@@ -21,7 +21,7 @@ sudo apt install curl wget zip git -y
 sudo apt install apache2 mariadb-server mariadb-client -y
 
 # Instalar os componentes PHP
-sudo apt install php7.4 php7.4-curl php7.4-common php7.4-gmp php7.4-mbstring php7.4-gd php7.4-xml php7.4-mysql php7.4-ldap php-pear -y
+sudo apt install php7.4 php7.4-curl php7.4-common php7.4-gmp php7.4-mbstring php7.4-gd php7.4-xml php7.4-mysql php7.4-ldap php-pear php-gd-y
 
 # Configurar a base de dados do MySQL
 sudo mysql_secure_installation <<EOF
