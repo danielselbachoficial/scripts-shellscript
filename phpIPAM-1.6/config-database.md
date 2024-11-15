@@ -18,7 +18,10 @@ IP-phpIPAM/phpipam
 #04_ Quarta etapa: Clique em "Automatic database Installation".<br>
 
 #05_ Quinta etapa: Informe o usuário e senha do "MySQL/MariaDB" e clique em "Show advanced options.<br>
-
+```bash
+Usuário MySQL: phpipam
+Senha MySQL: phpipamadmin
+```
 #06_ Sexta etapa:  Desmarque as opções abaixo:<br>
 ```bash
 [ ] Drop existing database if it exists
