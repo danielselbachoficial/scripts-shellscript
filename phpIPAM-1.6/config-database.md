@@ -11,7 +11,7 @@ Data de criação: 21/10/2024
 hostname -I
 
 #02_ Segunda etapa: Abrir o navegador e acessar a url do phpIPAM <br>
-<IP-phpIPAM>/phpipam
+IP-phpIPAM/phpipam
 
 #03_ Terceira etapa: Clique em "New phpipam Installation.<br>
 
