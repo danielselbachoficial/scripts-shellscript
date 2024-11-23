@@ -1,6 +1,6 @@
 Sejam bem-vindos ao repositório com scripts em Shell Script!
 
-Me chamo Daniel Selbach, sou profissional de TI, YouTuber, empreendedor.
+Me chamo Daniel Selbach, sou empreendedor, Mentor de Fortinet na Six Core, YouTuber.
 
 Neste repositório você encontrará os meus scripts criados na linguagem Shell Script para automatizar tarefas como instalação de servidor DNS, entre outras.
 
