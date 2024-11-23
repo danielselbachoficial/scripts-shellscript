@@ -3,8 +3,8 @@
 #########################################################################################
 # DANIEL S. FIGUEIRÓ                                                                    #
 # IT CONSULTANT                                                                         #
-# LINKEDIN: https://www.linkedin.com/in/danielselbachredes/                              #
-# SCRIPT V.: 1.1 - phpIPAM v1.6                                                          #
+# LINKEDIN: https://www.linkedin.com/in/danielselbachredes/                             #
+# SCRIPT V.: 1.1 - phpIPAM v1.6                                                         #
 #########################################################################################
 
 # Atualizar repositórios de sistema
