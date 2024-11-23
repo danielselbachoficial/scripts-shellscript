@@ -3,7 +3,7 @@
 #########################################################################################
 # DANIEL S. FIGUEIRÓ                                                                    #
 # IT CONSULTANT                                                                         #
-# LINKEDIN: https://www.linkedin.com/in/danielselbachredes/                              #
+# LINKEDIN: https://www.linkedin.com/in/danielselbachredes/                             #
 # SCRIPT V.: 1.2 - phpIPAM v1.6                                                         #
 #########################################################################################
 
