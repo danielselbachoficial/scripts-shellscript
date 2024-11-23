@@ -3,7 +3,7 @@
 #########################################################################################
 # DANIEL S. FIGUEIRÓ                                                                    #
 # IT CONSULTANT                                                                         #
-# LINKEDIN: https://www.linkedin.com/in/danielselbachtech/                              #
+# LINKEDIN: https://www.linkedin.com/in/danielselbachredes/                             #
 # SCRIPT V.: 1.0 - BIND9                                                                #
 #########################################################################################
 
