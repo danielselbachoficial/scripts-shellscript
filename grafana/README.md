@@ -33,7 +33,7 @@ Tudo com foco em:
 ## 📎 Exemplos disponíveis
 
 - `criar_usuario_admin_em_todas_orgs.sh`: script interativo que cria um usuário e o adiciona como Admin em todas as orgs existentes.
-- `criar_organizações_em_lote.sh`: cria 20 organizações de exemplo no Grafana, ideal para ambientes de testes ou labs.
+- `criar.orgs.sh`: cria 20 organizações de exemplo no Grafana, ideal para ambientes de testes ou labs.
 
 ---
 
