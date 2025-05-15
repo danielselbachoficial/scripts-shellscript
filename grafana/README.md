@@ -40,7 +40,7 @@ Tudo com foco em:
 ## 📥 Como usar
 
 ```bash
-# Criar o arquivo com editor de texto "nano" ou "vim".
+# Criar o arquivo com editor de texto "nano" ou "vim":
 nano ou vim
 
 # Dê permissão de execução
