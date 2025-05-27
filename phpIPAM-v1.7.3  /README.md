@@ -4,6 +4,7 @@
 **Daniel S. Figueiró**
 [LinkedIn](https://www.linkedin.com/in/danielselbachredes/)
 
+
 ## 🔗 Descrição
 
 Este script automatiza a instalação completa do **phpIPAM v1.7.3** nos sistemas operacionais:
