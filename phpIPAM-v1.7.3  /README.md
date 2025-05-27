@@ -44,8 +44,9 @@ Inclui configuração do ambiente LAMP/LEMP, banco de dados MariaDB, PHP 8.x e d
 1. **Baixe o script:**
 
 ```bash
-wget https://seu_repositorio/install-phpIPAM-v1.7.3.sh
+wget https://github.com/danielselbachoficial/scripts-shellscript/blob/main/phpIPAM-v1.7.3%20%20/install-phpIPAM-v1.7.3.sh
 chmod +x install-phpIPAM-v1.7.3.sh
+ls -l install-phpIPAM-v1.7.3.sh
 ```
 
 2. **Execute o script como root:**
