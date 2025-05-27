@@ -1,7 +1,6 @@
 # phpIPAM v1.7.3 - Script de Instalação
 
 ## 👤 Autor
-
 **Daniel S. Figueiró**
 [LinkedIn](https://www.linkedin.com/in/danielselbachredes/)
 
