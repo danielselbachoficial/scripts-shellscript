@@ -2,6 +2,7 @@
 
 #########################################################################################
 # Autor: Daniel S. Figueiró                                                             #
+# LINKEDIN: https://www.linkedin.com/in/danielselbachoficial/                           #
 # Versão: 1.3 - phpIPAM v1.7.3                                                          #
 # Compatível com: Debian 12, Ubuntu Server 22.04 LTS, Ubuntu Server 24.04 LTS           #
 # Requisitos: PHP >= 7.2, MariaDB >= 10.3                                               #
